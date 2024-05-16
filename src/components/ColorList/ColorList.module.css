@@ -1,0 +1,13 @@
+.colorList {
+  border: 2px solid #ddd;
+  width: 80%;
+  background-color: #d1d1d1;
+  margin: auto;
+}
+
+.colorItem {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
